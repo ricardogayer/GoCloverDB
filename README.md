@@ -25,4 +25,4 @@ p1.Set("order", 1)
 db.InsertOne("tabela", p1)
 ```
 
-Mais operações, verificar o código, por favor.
+Para mais operações, verificar o código, por favor.
